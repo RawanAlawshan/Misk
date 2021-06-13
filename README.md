@@ -1,5 +1,5 @@
 # Misk
-Project of Data analyst (Misk_Udacty)
+Projects of Data analyst (Misk_Udacty)
 
 *******Exploring Weather Trends - First Project*******
 Extract the data from the database
