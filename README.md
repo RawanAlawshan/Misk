@@ -1,2 +1,2 @@
 # Misk
-Project of Data Science (Misk_Udacty)
+Projects of Data Science (Misk_Udacty)
